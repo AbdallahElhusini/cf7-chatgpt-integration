@@ -1,0 +1,16 @@
+.cf7-chatgpt-templates-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.cf7-chatgpt-templates-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.cf7-chatgpt-templates-list button {
+    margin-left: 10px;
+}
